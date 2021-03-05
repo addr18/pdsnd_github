@@ -16,4 +16,4 @@ The following files were used for analysis:
 3. washington.csv
 
 ### Credits
-Credit: Andrew R.
+Credit: Andrew R. & Other Person
