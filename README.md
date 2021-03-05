@@ -7,7 +7,7 @@ Created March 5, 2021
 Exploring Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Analyzes patterns in bikeshare data.
 
 ### Files used
 The following files were used for analysis:
