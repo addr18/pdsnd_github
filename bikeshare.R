@@ -41,7 +41,7 @@ table(chi.customer$End.Station)
 ggplot(aes(x = User.Type),
        data = subset(chi, User.Type != 'Dependent')) +
   geom_bar()+
-  ggtitle('User Type Count - Chicago')+
+  ggtitle('User Type Count By Gender - Chicago')+
   labs( y = 'Count')+
   labs( x = 'User Type')
 
