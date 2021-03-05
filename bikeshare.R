@@ -45,7 +45,7 @@ ggplot(aes(x = User.Type),
   labs( y = 'Count')+
   labs( x = 'User Type')
 
-#Question 3 - Top five end stations by count?
+#Question 3 - Five most common end stations by count?
 
 top.five <- chi %>%
   count(End.Station, sort = TRUE) %>%
